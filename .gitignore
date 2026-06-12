@@ -1,0 +1,4 @@
+/target/
+/password_dict.txt
+**/*.rs.bk
+.DS_Store
